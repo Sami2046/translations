@@ -324,7 +324,7 @@
                     "fetching": "Récupération de votre profil…",
                     "placeholder": "Écrivez quelque chose à propos de vous…",
                     "profile_picture": "Photo de profil",
-                    "edit_background": "Modifier l'arrière-plan",
+                    "edit_background": "Modiffier l'arrière-plan",
                     "custom_background": "Arrière-plan personnalisé",
                     "edit_profile": "Modifier le profil"
                 },
@@ -569,9 +569,9 @@
                     "update": "Mettre à jour",
                     "preview": "Prévisualiser",
                     "reload": "Relancer l'application",
-                    "ok": "Ok",
+                    "ok": "Compris",
                     "close": "Fermer",
-                    "send_email": "Envoyer un mail",
+                    "send_email": "Envoyer un e-mail",
                     "continue": "Continuer",
                     "save": "Enregistrer",
                     "cancel": "Annuler",
@@ -594,7 +594,7 @@
                 "signed_out": "Vous avez été déconnecté !",
                 "account": {
                     "change": {
-                        "email": "Changer votre adresse mail",
+                        "email": "Changer votre adresse e-mail",
                         "username": "Changer votre nom d'utilisateur",
                         "password": "Changer votre mot de passe"
                     },
